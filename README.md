@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0217-contains-duplicate) |
+| [1580-shuffle-the-array](https://github.com/MohammadNasser-CS/LeetCode/tree/master/1580-shuffle-the-array) |
 ## Two Pointers
 |  |
 | ------- |
