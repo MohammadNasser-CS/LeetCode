@@ -15,13 +15,10 @@ public:
         if (left > right) {
             return nullptr;
         }
-        
-        int mid = left + (right - left) / 2;  // Middle element to avoid overflow
+        int mid = left + (right - left) / 2; 
         TreeNode* node = new TreeNode(nums[mid]);
-        
-        node->left = buildBST(nums, left, mid - 1);   // Recursively build the left subtree
-        node->right = buildBST(nums, mid + 1, right); // Recursively build the right subtree
-        
+        node->left = buildBST(nums, left, mid - 1); 
+        node->right = buildBST(nums, mid + 1, right);
         return node;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
