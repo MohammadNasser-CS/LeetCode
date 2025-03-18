@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0189-rotate-array) |
+| [2083-three-divisors](https://github.com/MohammadNasser-CS/LeetCode/tree/master/2083-three-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MohammadNasser-CS/LeetCode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MohammadNasser-CS/LeetCode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MohammadNasser-CS/LeetCode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
